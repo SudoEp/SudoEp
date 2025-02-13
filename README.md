@@ -1,8 +1,9 @@
 # 💻 Sudeep Lamsoge | SudoEp 🏴‍☠️  
 
-🔹 Security Consultant | Pentester | 📚 CTF Player
+🔹 Security Consultant | Pentester | 
 🔹 Writing about hacking, Tools, and security research  
 🔹 Cybersecurity Professional | Web, Network, Mobile, API & Cloud Security | Passionate About Securing Digital Assets 
+🔹 📚 CTF Player
 ---
 
 ## 🛠 Tech Stack
