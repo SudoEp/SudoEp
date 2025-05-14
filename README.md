@@ -1,4 +1,4 @@
-# Sudeep Lamsoge | SudoEp 🏴‍☠️  
+# Sudeep Lamsoge | 0xSudeep 🏴‍☠️  
 
 🔹 Security Consultant | Pentester |
 🔹 Writing about hacking, Tools, and security research  
